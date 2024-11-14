@@ -4,7 +4,7 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
+//baig gcin otbt syuv
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
@@ -156,5 +156,5 @@ EMAIL_USE_TLS = True  # Set to True if your email provider requires TLS
 
 # Update with your email credentials
 EMAIL_HOST_USER = 'officialdigyat@gmail.com'
-EMAIL_HOST_PASSWORD = 'baig gcin otbt syuv'
+EMAIL_HOST_PASSWORD = ''
 DEFAULT_FROM_EMAIL = 'officialdigyat@gmail.com'
